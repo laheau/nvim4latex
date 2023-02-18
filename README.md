@@ -13,3 +13,36 @@ My setup is based on LazyVim, on which I added vimtex configured for skim and Ul
   - [wezterm](https://github.com/wez/wezterm) **_(Linux, Macos & Windows)_**
   - [alacritty](https://github.com/alacritty/alacritty) **_(Linux, Macos & Windows)_**
   - [iterm2](https://iterm2.com/) **_(Macos)_**
+
+
+# 🛠️ Installation
+
+- Make a backup of your current Neovim files:
+
+  ```sh
+  # required
+  mv ~/.config/nvim ~/.config/nvim.bak
+
+  # optional but recommended
+  mv ~/.local/share/nvim ~/.local/share/nvim.bak
+  mv ~/.local/state/nvim ~/.local/state/nvim.bak
+  mv ~/.cache/nvim ~/.cache/nvim.bak
+  ```
+
+- Clone the starter
+
+  ```sh
+  git clone https://github.com/laheau/nvim4latex r ~/.config/nvim
+  ```
+
+- Remove the `.git` folder, so you can add it to your own repo later
+
+  ```sh
+  rm -rf ~/.config/nvim/.git
+  ```
+
+- Start Neovim!
+
+  ```sh
+  nvim
+  ```
