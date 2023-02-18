@@ -1,3 +1,4 @@
+# 🚀 Getting Started
 The setup is based on LazyVim, on top of which I added vimtex configured for skim and Ultisnips with the snippets I use. The snippets are derived from https://github.com/gillescastel/latex-snippets. The conceal is also ajusted to a better looking style.
 
 
