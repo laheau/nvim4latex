@@ -1,4 +1,7 @@
-The setup is based on LazyVim, on which I added vimtex configured for skim and Ultisnips with the snippets I use. The snippets are derived from https://github.com/gillescastel/latex-snippets
+# 🚀 Getting Started
+The setup is based on LazyVim, on top of which I added vimtex configured for skim and Ultisnips with the snippets I use. The snippets are derived from https://github.com/gillescastel/latex-snippets. The conceal is also ajusted to a better looking style.
+
+
 ## ⚡️ Requirements
 
 - Neovim >= **0.8.0** (needs to be built with **LuaJIT**)
@@ -9,11 +12,13 @@ The setup is based on LazyVim, on which I added vimtex configured for skim and U
   - **live grep**: [ripgrep](https://github.com/BurntSushi/ripgrep)
   - **find files**: [fd](https://github.com/sharkdp/fd)
 - a terminal that support true color and _undercurl_:
+  - [iterm2](https://iterm2.com/) **_(Macos / My current setup)_**
   - [kitty](https://github.com/kovidgoyal/kitty) **_(Linux & Macos)_**
   - [wezterm](https://github.com/wez/wezterm) **_(Linux, Macos & Windows)_**
   - [alacritty](https://github.com/alacritty/alacritty) **_(Linux, Macos & Windows)_**
-  - [iterm2](https://iterm2.com/) **_(Macos / My current setup)_**
-
+- a PDF viewer that supports synctex:
+  - [Skim](https://skim-app.sourceforge.io/index.html) **_(Macos / My current setup)_**
+  - [Zathura](https://pwmt.org/projects/zathura/) **_(Linux & Macos)_**
 
 # 🛠️ Installation
 
@@ -32,7 +37,7 @@ The setup is based on LazyVim, on which I added vimtex configured for skim and U
 - Clone the starter
 
   ```sh
-  git clone https://github.com/laheau/nvim4latex r ~/.config/nvim
+  git clone https://github.com/laheau/nvim4latex ~/.config/nvim
   ```
 
 - Remove the `.git` folder, so you can add it to your own repo later
