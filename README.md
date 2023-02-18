@@ -12,7 +12,7 @@ My setup is based on LazyVim, on which I added vimtex configured for skim and Ul
   - [kitty](https://github.com/kovidgoyal/kitty) **_(Linux & Macos)_**
   - [wezterm](https://github.com/wez/wezterm) **_(Linux, Macos & Windows)_**
   - [alacritty](https://github.com/alacritty/alacritty) **_(Linux, Macos & Windows)_**
-  - [iterm2](https://iterm2.com/) **_(Macos)_**
+  - [iterm2](https://iterm2.com/) **_(Macos / My current setup)_**
 
 
 # 🛠️ Installation
