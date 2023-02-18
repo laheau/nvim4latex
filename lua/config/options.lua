@@ -9,6 +9,8 @@ vim.g.UltiSnipsExpandTrigger = "<tab>"
 vim.g.UltiSnipsJumpForwardTrigger = "<tab>"
 vim.g.UltiSnipsJumpBackwardTrigger = "<s-tab>"
 
+vim.opt.wrap = true
+
 vim.opt.spell = true
 vim.opt.spelllang = "en_ca"
 
