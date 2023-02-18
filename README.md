@@ -13,7 +13,9 @@ The setup is based on LazyVim, on which I added vimtex configured for skim and U
   - [wezterm](https://github.com/wez/wezterm) **_(Linux, Macos & Windows)_**
   - [alacritty](https://github.com/alacritty/alacritty) **_(Linux, Macos & Windows)_**
   - [iterm2](https://iterm2.com/) **_(Macos / My current setup)_**
-
+- a PDF viewer that supports synctex:
+  - [Skim](https://skim-app.sourceforge.io/index.html) **_(Macos / My current setup)_**
+  - [Zathura](https://pwmt.org/projects/zathura/) **_(Linux & Macos)_**
 
 # 🛠️ Installation
 
