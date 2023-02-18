@@ -32,7 +32,7 @@ The setup is based on LazyVim, on which I added vimtex configured for skim and U
 - Clone the starter
 
   ```sh
-  git clone https://github.com/laheau/nvim4latex r ~/.config/nvim
+  git clone https://github.com/laheau/nvim4latex ~/.config/nvim
   ```
 
 - Remove the `.git` folder, so you can add it to your own repo later
