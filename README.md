@@ -1,4 +1,4 @@
-My setup is based on LazyVim, on which I added vimtex configured for skim and Ultisnips with the snippets I use. The snippets are derived from https://github.com/gillescastel/latex-snippets
+The setup is based on LazyVim, on which I added vimtex configured for skim and Ultisnips with the snippets I use. The snippets are derived from https://github.com/gillescastel/latex-snippets
 ## ⚡️ Requirements
 
 - Neovim >= **0.8.0** (needs to be built with **LuaJIT**)
